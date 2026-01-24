@@ -61,4 +61,3 @@ The objective is to transform raw transactional data into meaningful insights th
 2. Open SQL files in your database system
 
 3. Run Python notebooks
-
