@@ -27,7 +27,7 @@ The objective is to transform raw transactional data into meaningful insights th
 ## 🔄 Project Workflow
 
 1. Data Collection  
-   - Imported raw data from CSV / database
+   - Imported the data
 
 2. Data Cleaning  
    - Removed duplicates
