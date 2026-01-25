@@ -5,7 +5,7 @@ This project focuses on analyzing customer purchase data to identify buying patt
 
 The objective is to transform raw transactional data into meaningful insights that can help businesses improve decision-making and customer strategy.
  
---- 
+---
 
 ## 📊 Objectives
 - Analyze customer purchasing behavior
