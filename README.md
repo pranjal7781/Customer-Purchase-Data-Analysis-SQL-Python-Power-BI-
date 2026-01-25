@@ -23,7 +23,7 @@ The objective is to transform raw transactional data into meaningful insights th
 - Microsoft Excel (Initial data handling)
 
 ---
-
+ 
 ## 🔄 Project Workflow
 
 1. Data Collection  
