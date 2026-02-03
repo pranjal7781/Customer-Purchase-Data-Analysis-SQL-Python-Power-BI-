@@ -50,6 +50,7 @@ The objective is to transform raw transactional data into meaningful insights th
 6. Insight Generation  
    - Interpreted results
    - Provided business recommendations
+   - 
 
 ---
 
