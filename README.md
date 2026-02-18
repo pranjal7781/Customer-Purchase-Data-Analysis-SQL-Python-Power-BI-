@@ -1,5 +1,5 @@
 # Customer Purchase Data Analysis (SQL, Python, Power BI)
-
+ 
 ## 📌 Project Overview
 This project focuses on analyzing customer purchase data to identify buying patterns, sales trends, and business insights using SQL, Python, and Power BI.
 
