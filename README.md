@@ -7,7 +7,7 @@ The objective is to transform raw transactional data into meaningful insights th
   
 --- 
 
-## 📊 Objectives
+## 📊 Objectives 
 - Analyze customer purchasing behavior
 - Identify high-performing products and categories
 - Study sales and revenue trends
